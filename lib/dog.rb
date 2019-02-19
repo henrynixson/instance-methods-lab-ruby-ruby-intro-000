@@ -6,5 +6,5 @@ class Dog
   
 end 
 
-bark = Dog.new 
-
+test = Dog.new 
+test.Dog
