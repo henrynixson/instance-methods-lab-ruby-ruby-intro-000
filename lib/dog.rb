@@ -7,4 +7,4 @@ class Dog
 end 
 
 test = Dog.new 
-test.Dog
+test.bark
