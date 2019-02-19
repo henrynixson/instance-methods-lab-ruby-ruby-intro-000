@@ -4,6 +4,7 @@ class Dog
     puts "Woof!"
   end
   
+  def sit
 end 
 
 test = Dog.new 
