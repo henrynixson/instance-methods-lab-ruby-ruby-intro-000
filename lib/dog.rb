@@ -10,5 +10,4 @@ class Dog
   
 end 
 
-test = Dog.new 
-test.bark
+
